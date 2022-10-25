@@ -1,0 +1,1 @@
+This is a bank managing application written in Python
