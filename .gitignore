@@ -1,5 +1,7 @@
 # We don't want to upload this files/folders
 __pycache__/
+.git/
 
 #DBs
 accountfiles.txt
+Testing.py
